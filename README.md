@@ -8,3 +8,7 @@ dependency:
 1. boost
 2. googletest
 3. CentOS 7 x64 
+
+usage:
+	make
+	./a.out
